@@ -1,0 +1,6 @@
+#ignore nome_modules
+node_modules/
+
+#ignore IDE settings
+.vscode/
+.idea/
